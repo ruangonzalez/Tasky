@@ -34,6 +34,6 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    version='C:\\Users\\ruans\\AppData\\Local\\Temp\\a8fc788d-402d-4360-bbb0-12147857d841',
+    version='C:\\Users\\ruans\\AppData\\Local\\Temp\\b2987a4a-62dc-41bc-b233-ddb456490b8b',
     icon=['icone_tasky.jpg'],
 )
