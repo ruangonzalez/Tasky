@@ -1,0 +1,8 @@
+*.py linguist-language=Python
+tex/* linguist-vendored
+*.html linguist-detectable=false
+
+build/tasky/PKG-00.toc linguist-vendored
+build/tasky/PYZ-00.toc linguist-vendored
+build/tasky/EXE-00.toc linguist-vendored
+build/tasky/Analysis-00.toc linguist-vendored
