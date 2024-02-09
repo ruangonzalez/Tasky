@@ -25,7 +25,7 @@ class ToDo:
         self.page.window_height = 450
         self.page.window_resizable = False
         self.page.window_always_on_top = True
-        self.page.title = "Lista de Tarefas"
+        self.page.title = "Tasky"
         self.task = ""
         self.view = "all"
         self.db_execute("CREATE TABLE IF NOT EXISTS tasks(name, status)")
